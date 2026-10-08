@@ -10,7 +10,7 @@ I'm a recent Master's graduate and aspiring Full Stack Developer with a strong f
 
 - Recent Master's graduate and aspiring Full Stack Developer
 - Skilled in Java, Spring Boot, React, Tailwind CSS, Bootstrap, Node.js, MySQL, MongoDB, and PostgreSQL
-- Currently learning Kubernetes, CI/CD, GraphQL
+- Currently learning Kubernetes, GraphQL and deepening spring boot
 - Interested in Backend Development and Software Engineering
 - Open to Software Developer opportunities
 
